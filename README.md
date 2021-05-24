@@ -1,1 +1,1 @@
--- This is just a school project, you have the total rights to clone, use, publish for free
+-- This is just a school project, you have the total rights to clone, download and use for free
